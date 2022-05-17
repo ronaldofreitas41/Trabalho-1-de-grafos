@@ -13,3 +13,12 @@
   - Busca Largura por Caminhos
  </ul>  
  
+ Autores:
+ 
+  <ul>
+  
+  - Ronaldo Luiz de Freitas Santos
+  
+  - Bernardo Lucas de Araujo Dias
+
+ </ul> 
