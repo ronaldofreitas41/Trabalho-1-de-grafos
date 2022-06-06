@@ -21,7 +21,7 @@ match nome:
         retornos = g1.buscaLarguraCaminhos(start,end)
     case "rome99c.txt":
         print("Algoritimo utilizado: Bellman Ford")
-        retornos = g1.bellmanFord(start)
+        retornos = g1.bellmanFord(start,end)
     case "rg300_4730.txt":
         print("Algoritimo utilizado: Dijkstra")
         retornos = g1.dijkstra(start)
